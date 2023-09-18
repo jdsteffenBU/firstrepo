@@ -7,3 +7,4 @@ a new line is added in the local repo
 Adding another line here
 
 yet one more line with a blank line in between
+more stuff
